@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back to home</name>
+   <tag></tag>
+   <elementGuidId>03f03832-e4ae-427f-b892-ad27d2285102</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button_Button__QGZ2g.Button_Button--text__JelYA.SuccessPopUp__Button__bgWCL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48316cf6-607e-4b1f-9f4b-49d4de1336a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_Button__QGZ2g Button_Button--text__JelYA SuccessPopUp__Button__bgWCL</value>
+      <webElementGuid>7bde5c27-6685-41bb-b34a-c419b0dfa660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to home</value>
+      <webElementGuid>a3f13192-f852-4f0a-9e17-66605efd78c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/div[@class=&quot;SuccessPopUp__Wrapper__1MTxB SuccessPopUp__Open__lykej&quot;]/div[@class=&quot;SuccessPopUp__Container__zPy1R container&quot;]/button[@class=&quot;Button_Button__QGZ2g Button_Button--text__JelYA SuccessPopUp__Button__bgWCL&quot;]</value>
+      <webElementGuid>7ea0a58c-a7e4-436e-b395-af0921cc2cca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div/button</value>
+      <webElementGuid>8addb978-3ff9-4556-93c0-6f2396fd51a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::button[1]</value>
+      <webElementGuid>67f834da-0c8e-48f0-a2ec-9b7eb0131ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Development'])[2]/following::button[2]</value>
+      <webElementGuid>cac1793b-9580-428d-823f-896adce13687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to home']/parent::*</value>
+      <webElementGuid>6750be55-c527-49d9-be4e-034904c4a307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>9fe212b6-a348-4d88-97df-11808ae9efd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Back to home' or . = 'Back to home')]</value>
+      <webElementGuid>39977dee-5dd6-4847-9e2d-496280617306</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

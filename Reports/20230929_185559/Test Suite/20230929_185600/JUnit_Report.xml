@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite" time="29.09" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite" tests="1" failures="0" errors="0" time="29.09" skipped="0" timestamp="2023-09-29 18:56:02" hostname="LENOVO - LAPTOP-6D1EASRA" id="Test Suites/Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\super-duper-guide\\Reports\\20230929_185559\\Test Suite\\20230929_185600"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\super-duper-guide\\Reports\\20230929_185559\\Test Suite\\20230929_185600\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - LAPTOP-6D1EASRA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="cdc311fa5359078fb651a951a5e1ef3e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Send message through contactUs" time="28.884" classname="Test Cases/Send message through contactUs" status="PASSED">
+         <system-out><![CDATA[2023-09-29 18:56:03 - [TEST_CASE][PASSED] - Test Cases/Send message through contactUs: Test Cases/Send message through contactUs
+
+2023-09-29 18:56:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-29 18:56:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-29 18:56:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-29 18:56:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-29 18:56:05 - [TEST_STEP][PASSED] - navigateToUrl("https://madeindonesia.com/"): Navigate to 'https://madeindonesia.com/' successfully
+
+2023-09-29 18:56:19 - [MESSAGE][PASSED] - Navigate to 'https://madeindonesia.com/' successfully
+
+2023-09-29 18:56:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Accept all")): Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Accept all' is clicked on
+
+2023-09-29 18:56:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Accept all' is clicked on
+
+2023-09-29 18:56:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/span_Contact us")): Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/span_Contact us' is clicked on
+
+2023-09-29 18:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/span_Contact us' is clicked on
+
+2023-09-29 18:56:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_name"), "Akuntes"): Text 'Akuntes' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_name'
+
+2023-09-29 18:56:25 - [MESSAGE][PASSED] - Text 'Akuntes' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_name'
+
+2023-09-29 18:56:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_email"), "akunTes@mailinator.com"): Text 'akunTes@mailinator.com' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_email'
+
+2023-09-29 18:56:26 - [MESSAGE][PASSED] - Text 'akunTes@mailinator.com' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_email'
+
+2023-09-29 18:56:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_companyName"), "MyCompany"): Text 'MyCompany' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_companyName'
+
+2023-09-29 18:56:26 - [MESSAGE][PASSED] - Text 'MyCompany' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_companyName'
+
+2023-09-29 18:56:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Select_css-czldi3")): Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Select_css-czldi3' is clicked on
+
+2023-09-29 18:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Select_css-czldi3' is clicked on
+
+2023-09-29 18:56:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Development")): Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Development' is clicked on
+
+2023-09-29 18:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Development' is clicked on
+
+2023-09-29 18:56:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/textarea_Development_message"), "Hello, this message is only for testing purpose "): Text 'Hello, this message is only for testing purpose ' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/textarea_Development_message'
+
+2023-09-29 18:56:28 - [MESSAGE][PASSED] - Text 'Hello, this message is only for testing purpose ' is set on object 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/textarea_Development_message'
+
+2023-09-29 18:56:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Submit")): Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Submit' is clicked on
+
+2023-09-29 18:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Submit' is clicked on
+
+2023-09-29 18:56:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Back to home")): Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Back to home' is clicked on
+
+2023-09-29 18:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Back to home' is clicked on
+
+2023-09-29 18:56:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-29 18:56:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-29 18:56:02 - [TEST_SUITE][PASSED] - Test Suite: Test Cases/Send message through contactUs]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

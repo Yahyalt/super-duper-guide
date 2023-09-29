@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contact us</name>
+   <tag></tag>
+   <elementGuidId>7f024176-e063-4b4c-8ce1-bc13766f9501</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Capsule__Wrapper__tDaFT.Capsule_dark__io9PG > span.caption</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contact']/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88559724-9dc2-43a1-9b21-20e0d3ccb044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caption</value>
+      <webElementGuid>95cc55cc-a4ee-4f65-9032-4efb5bc3d9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact us</value>
+      <webElementGuid>b14679de-c8fb-401a-93b0-803923a71a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;ContactSection__Content__7LBxQ&quot;]/div[@class=&quot;ContactSection__Copywriting__TetCZ&quot;]/div[@class=&quot;Capsule__Wrapper__tDaFT Capsule_dark__io9PG&quot;]/span[@class=&quot;caption&quot;]</value>
+      <webElementGuid>d2c723f7-b77b-4235-8dee-3c5ab68071ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact']/div/div/div/div/span</value>
+      <webElementGuid>ac178dec-160b-44e2-9357-f0d8f225597a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to deliver phenomenal projects together'])[1]/following::span[1]</value>
+      <webElementGuid>b82aedd2-0849-4252-be0f-32427e1b71fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The latest insights and inspiration'])[1]/following::span[7]</value>
+      <webElementGuid>f7084ba1-c4a1-4a4b-bbde-fa13b36b0028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info@madeindonesia.com'])[1]/preceding::span[6]</value>
+      <webElementGuid>7efa98b4-0755-463f-968f-4aecb891041b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span</value>
+      <webElementGuid>c0b8b9ac-366c-44ca-a91d-8ff24f93d20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Contact us' or . = 'Contact us')]</value>
+      <webElementGuid>d527bc08-7fa2-4259-b198-673bf6402150</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

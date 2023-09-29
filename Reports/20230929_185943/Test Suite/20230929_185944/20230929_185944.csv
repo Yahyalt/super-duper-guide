@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite,Chrome 117.0.0.0,,,2023-09-29 18:59:46,2023-09-29 19:01:36,1m - 49.518s,PASSED
+,,,,,,,
+Test Cases/Send message through contactUs,Chrome 117.0.0.0,,,2023-09-29 19:01:08,2023-09-29 19:01:36,27.598s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-29 19:01:08,2023-09-29 19:01:10,1.770s,PASSED
+"navigateToUrl(""https://madeindonesia.com/"")",Chrome 117.0.0.0,,,2023-09-29 19:01:10,2023-09-29 19:01:22,11.656s,PASSED
+"click(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Accept all""))",Chrome 117.0.0.0,,,2023-09-29 19:01:22,2023-09-29 19:01:22,0.389s,PASSED
+"click(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/span_Contact us""))",Chrome 117.0.0.0,,,2023-09-29 19:01:22,2023-09-29 19:01:27,4.670s,PASSED
+"setText(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_name""), ""Akuntes"")",Chrome 117.0.0.0,,,2023-09-29 19:01:27,2023-09-29 19:01:27,0.732s,PASSED
+"setText(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_email""), ""akunTes@mailinator.com"")",Chrome 117.0.0.0,,,2023-09-29 19:01:27,2023-09-29 19:01:28,0.757s,PASSED
+"setText(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_companyName""), ""MyCompany"")",Chrome 117.0.0.0,,,2023-09-29 19:01:28,2023-09-29 19:01:29,0.795s,PASSED
+"click(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Select_css-czldi3""))",Chrome 117.0.0.0,,,2023-09-29 19:01:29,2023-09-29 19:01:30,0.496s,PASSED
+"click(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Development""))",Chrome 117.0.0.0,,,2023-09-29 19:01:30,2023-09-29 19:01:30,0.490s,PASSED
+"setText(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/textarea_Development_message""), ""Hello, this message is only for testing purpose "")",Chrome 117.0.0.0,,,2023-09-29 19:01:30,2023-09-29 19:01:31,0.906s,PASSED
+"click(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Submit""))",Chrome 117.0.0.0,,,2023-09-29 19:01:31,2023-09-29 19:01:31,0.391s,PASSED
+"click(findTestObject(""Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Back to home""))",Chrome 117.0.0.0,,,2023-09-29 19:01:31,2023-09-29 19:01:33,1.880s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-29 19:01:33,2023-09-29 19:01:34,0.621s,PASSED
+Video,Chrome 117.0.0.0,,,2023-09-29 19:01:36,2023-09-29 19:01:36,0.000s,PASSED

@@ -1,0 +1,48 @@
+1
+00:00:00,002 --> 00:00:01,860
+1. openBrowser("")
+
+2
+00:00:01,861 --> 00:00:11,923
+5. navigateToUrl("https://madeindonesia.com/")
+
+3
+00:00:11,923 --> 00:00:12,630
+9. click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Accept all"))
+
+4
+00:00:12,631 --> 00:00:17,578
+13. click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/span_Contact us"))
+
+5
+00:00:17,579 --> 00:00:18,280
+17. setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_name"), "Akuntes")
+
+6
+00:00:18,281 --> 00:00:19,001
+21. setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_email"), "akunTes@mailinator.com")
+
+7
+00:00:19,001 --> 00:00:19,824
+25. setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/input_MadeIndonesia_companyName"), "MyCompany")
+
+8
+00:00:19,824 --> 00:00:20,305
+29. click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Select_css-czldi3"))
+
+9
+00:00:20,306 --> 00:00:20,789
+33. click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/div_Development"))
+
+10
+00:00:20,790 --> 00:00:21,667
+37. setText(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/textarea_Development_message"), "Hello, this message is only for testing purpose ")
+
+11
+00:00:21,668 --> 00:00:22,094
+41. click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Submit"))
+
+12
+00:00:22,094 --> 00:00:23,377
+45. click(findTestObject("Object Repository/Page_Development, Design, Video and Data en_ee6ba8/button_Back to home"))
+
